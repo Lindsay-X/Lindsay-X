@@ -5,10 +5,9 @@
 
 - 📫 How to reach me **lindsayxiel1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> 
-<a href="https://linkedin.com/in/lindsayxie" target="blank"><img align="center" src="https://github.com/Lindsay-X/Lindsay-X/blob/main/LinkedIn_logo_initials.png" alt="lindsayxie" height="40" width="40" /></a>
-</p>
+<h3 align="left"> Connect with me on:  
+  <a href="https://linkedin.com/in/lindsayxie" target="blank"> <img align="center" src="https://github.com/Lindsay-X/Lindsay-X/blob/main/LinkedIn_logo_initials.png" alt="lindsayxie" height="35" width="35"/></a> 
+</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <ul align="left"> 
