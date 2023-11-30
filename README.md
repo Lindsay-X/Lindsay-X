@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hello :) I'm Lindsay Xie</h1>
+<h3 align="center">A Bachelor of Computer Science candidate at the University of Waterloo</h3>
 
-<!--
-**Lindsay-X/Lindsay-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **React Native, Racket, Blender**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **lindsayxiel1@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left"> 
+<a href="https://linkedin.com/in/lindsayxie" target="blank"><img align="center" src="https://github.com/Lindsay-X/Lindsay-X/blob/main/LinkedIn_logo_initials.png" alt="lindsayxie" height="40" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<ul align="left"> 
+  <li><a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"> CSS 🎨 </a></li> 
+  <li><a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"> Figma 🎨 </a></li> 
+  <li><a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> Git </a></li>  
+  <li><a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"> HTML 💻 </a></li>  
+  <li><a href="https://www.java.com" target="_blank" rel="noopener noreferrer"> Java ☕️ </a></li> 
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> Javascript 💻 </a></li>  
+  <li><a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"> mySQL 📈 </a></li>  
+  <li><a href="https://nodejs.org" target="_blank" rel="noopener noreferrer"> Node.js  </a></li>  
+  <li><a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> Python 🐍 </a></li>  
+</ul>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lindsay-x&show_icons=true&locale=en&layout=compact" alt="lindsay-x" /></p>
