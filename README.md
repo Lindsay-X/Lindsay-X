@@ -1,7 +1,7 @@
 <h1 align="center">Hello :) I'm Lindsay Xie</h1>
 <h3 align="center">A Bachelor of Computer Science candidate at the University of Waterloo</h3>
 
-- 🌱 I’m currently learning **Selenium, Blender, Typescript, Three.js**
+- 🌱 I’m currently learning **Blender, Typescript, Three.js, C++**
 
 - 📫 How to reach me **lindsayxiel1@gmail.com**
 
